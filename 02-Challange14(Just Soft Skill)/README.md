@@ -1,4 +1,4 @@
-Vizyon Panosu nedir ve nasıl yapılır için ilk olarak [Vizyon Panosu Yapıyoruz.docx]()'e göz atmalısınız.
+Vizyon Panosu nedir ve nasıl yapılır için ilk olarak [Vizyon Panosu Yapıyoruz.docx](https://github.com/elifbeyzatok00/Kodluyoruz_Yaz_Challenge_2023/blob/main/02-Challange14(Just%20Soft%20Skill)/Vizyon%20Panosu%20Yap%C4%B1yoruz.docx)'e göz atmalısınız.
 
 Ben vizyon panosu olarak en iyi seçeneğin **telefon kilit ekranı**m olacağına karar verdim.
 
