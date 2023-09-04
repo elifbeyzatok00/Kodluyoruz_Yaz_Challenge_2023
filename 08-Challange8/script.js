@@ -7,6 +7,9 @@
 */
 
 //Easy
+const sayi = parseInt(prompt("Bir sayı girin:"));
+
+console.log(`${sayi} sayısının karesi ${sayi ** 2}'dir.`);
 
 //Medium
 
