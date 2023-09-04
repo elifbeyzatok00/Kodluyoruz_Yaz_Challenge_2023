@@ -13,6 +13,14 @@
 */
 
 //Easy
+/*
+x = v * t  => t = x / v
+*/
+
+let FindTime = (distance, speed) => {
+  return distance / speed;
+};
+console.log("Bu araba" + FindTime(240, 60) + " saatte 240 km yol alır.");
 
 //Medium
 
