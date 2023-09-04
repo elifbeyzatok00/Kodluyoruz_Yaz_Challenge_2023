@@ -7,6 +7,10 @@
 */
 
 //Easy
+const threePoints = 5;
+const twoPoints = 10;
+const totalScore = threePoints * 3 + twoPoints * 2;
+console.log(totalScore);
 
 //Medium
 
