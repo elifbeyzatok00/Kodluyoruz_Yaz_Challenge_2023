@@ -5,6 +5,8 @@
 */
 
 //Easy
+const kelime = prompt("Bir kelime girin:");
+console.log(`${kelime} kelimesinin uzunluğu ${kelime.length}'dir.`);
 
 //Medium
 
