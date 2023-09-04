@@ -10,6 +10,14 @@
 */
 
 //Easy
+// Kullanıcıdan bir sayı iste
+const sayi = parseInt(prompt("Bir sayı girin:"));
+
+if (sayi % 2 === 0) {
+  console.log(`${sayi} sayısı çifttir.`);
+} else {
+  console.log(`${sayi} sayısı tektir.`);
+}
 
 //Medium
 
