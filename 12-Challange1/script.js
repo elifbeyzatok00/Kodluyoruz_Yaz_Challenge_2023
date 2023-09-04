@@ -11,6 +11,15 @@
 */
 
 //Easy
+const red = 5;
+const green = 4;
+const blue = 3;
+const total = red + green + blue;
+const probability =
+  (red / total) * ((red - 1) / (total - 1)) +
+  (green / total) * ((green - 1) / (total - 1)) +
+  (blue / total) * ((blue - 1) / (total - 1));
+console.log(probability);
 
 //Medium
 
