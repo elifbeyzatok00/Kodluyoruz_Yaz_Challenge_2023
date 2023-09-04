@@ -9,7 +9,10 @@
 */
 
 //Easy
+const sayi1 = prompt("Birinci sayıyı giriniz");
+const sayi2 = prompt("İkinci sayıyı giriniz");
 
+console.log(Number(sayi1) + Number(sayi2));
 //Medium
 
 //Hard
