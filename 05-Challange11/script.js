@@ -9,6 +9,27 @@ https://garywoodfine.com/what-is-clean-code/
 */
 
 //Easy
+// Kullanıcıdan bir sayı iste
+const sayi = parseInt(
+  prompt("Faktöriyelini hesaplamak istediğiniz sayıyı girin:")
+);
+
+// Faktöriyel hesaplama fonksiyonu
+function faktoriyelHesapla(sayi) {
+  if (sayi === 0 || sayi === 1) {
+    return 1;
+  } else {
+    return sayi * faktoriyelHesapla(sayi - 1);
+  }
+}
+
+// Sonucu ekrana yazdır
+if (sayi < 0) {
+  console.log("Negatif bir sayının faktöriyeli hesaplanamaz.");
+} else {
+  const faktoriyel = faktoriyelHesapla(sayi);
+  console.log(`${sayi} sayısının faktöriyeli: ${faktoriyel}`);
+}
 
 //Medium
 
