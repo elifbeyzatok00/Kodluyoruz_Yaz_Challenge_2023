@@ -9,7 +9,7 @@ Hard Skill challangeların yanı sıra soft skill challangelar da düzenleniyor.
 ## Süreç nasıl yürüyor? 👀
 Cohort sistemi üzerinden bizlere haftalık olarak easy, medium, hard olmak üzere üç adet challenge sorusu verilecek. Bunlardan bizim için en uygun olanını ya da hepsini çözebiliz. İstediğimiz yazılım dilini kullanabiliriz. Ben Javascript dilini kullanacağım. 
 
-Ayrıca Hard Skill challange adı altında düzenlenen discord ya da youtube üzerinden düzenlenen teach-talks and meet-up tarzı etkinlikler de bu süreci destekliyor ve yazılım alanında gelişmemizi sağlıyorlar.
+Ayrıca Soft Skill Challange adı altında düzenlenen discord ya da youtube üzerinden düzenlenen teach-talks and meet-up tarzı etkinlikler de bu süreci destekliyor ve yazılım alanında gelişmemizi sağlıyorlar.
 
 
 
